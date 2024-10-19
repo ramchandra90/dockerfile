@@ -1,4 +1,4 @@
 FROM almalinux:9
-LABEl author= "Ramachandra" \
+LABEl author="Ramachandra" \
       company="Datacom" \
-      Role=" Network Engineer"
+      Role="Network Engineer"
